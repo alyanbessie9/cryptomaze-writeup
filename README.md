@@ -4,7 +4,6 @@
 =====================================================================
 cd ~/Downloads && rm -rf solve.py README.md .gitignore .git 2>/dev/null
 pip3 install pycryptodome --user --break-system-packages
-
 =====================================================================
  2. MEMBUAT FILE OTOMASI PEMECAH SANDI (solve.py)
 =====================================================================
