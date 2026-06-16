@@ -1,12 +1,13 @@
- =====================================================================
+
+=====================================================================
  1. PERSIAPAN LINGKUNGAN & PUSTAKA
- =====================================================================
+=====================================================================
 cd ~/Downloads && rm -rf solve.py README.md .gitignore .git 2>/dev/null
 pip3 install pycryptodome --user --break-system-packages
 
- =====================================================================
+=====================================================================
  2. MEMBUAT FILE OTOMASI PEMECAH SANDI (solve.py)
- =====================================================================
+=====================================================================
 cat << 'EOF' > solve.py
 #!/usr/bin/env python3
 import ast
@@ -196,7 +197,7 @@ echo "[+] PROSES INJEK DATA BERHASIL!"
 echo "[+] Berkas 'solve.py', '.gitignore', dan 'README.md' selesai diperbarui."
 echo "[+] Flag resmi 'picoCTF{scr8mbledt_flvg_42186d25}' telah dikunci di dalam laporan."
 echo "====================================================================="
-echo "[!] Catatan: Ambil screenshot terminal Anda, beri nama 'screenshot.png', lalu taruh di folder ini."
+<img width="982" height="216" alt="image" src="https://github.com/user-attachments/assets/d5b974bc-47ef-4574-9c66-13971117e747" />
 
 ```
 
