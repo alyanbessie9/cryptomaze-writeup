@@ -3,6 +3,8 @@
 # 1. PERSIAPAN LINGKUNGAN & PUSTAKA
 
 # =====================================================================
+<img width="906" height="445" alt="image" src="https://github.com/user-attachments/assets/d06aab39-34cb-4f86-b4cc-e8370321b925" />
+
 
 cd ~/Downloads && rm -rf solve.py README.md .gitignore .git 2>/dev/null
 pip3 install pycryptodome --user --break-system-packages
@@ -233,7 +235,7 @@ Langkah-langkah operasional untuk menjalankan lingkungan pemecahan sandi pada Ka
 Setelah skrip otomasi melakukan kalkulasi dan rekonstruksi matriks kunci secara presisi, teks rahasia berhasil dipulihkan dengan keluaran string sebagai berikut:
 
 \`\`\`text
-$FLAG_HASIL
+$picoCTF{scr8mbledt_flvg_42186d25}
 \`\`\`
 
 ---
