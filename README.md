@@ -14,7 +14,6 @@ Tujuan challenge adalah merekonstruksi kunci AES dari output LFSR yang diberikan
 .
 ├── output.txt      # Data challenge
 ├── solve.py        # Script solver
-├── screenshot.png  # Bukti eksekusi
 ├── README.md
 └── .gitignore
 ```
