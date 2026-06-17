@@ -51,7 +51,7 @@ Setelah kunci diperoleh, ciphertext didekripsi menggunakan:
 Install dependency:
 
 ```bash
-pip3 install pycryptodome
+pip3 install pycryptodome --user --break-system-packages
 ```
 
 ---
